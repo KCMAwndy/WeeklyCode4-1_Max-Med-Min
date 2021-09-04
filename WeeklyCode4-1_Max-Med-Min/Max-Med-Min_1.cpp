@@ -41,6 +41,6 @@ int main() {
 			}
 		}
 	}
-	printf("max = %d,med = %d,min = %d", max, med, min);
+	printf("Maximum\t= %d \nMedium\t= %d \nMinimum\t= %d", max, med, min);
 	return 0;
 }
